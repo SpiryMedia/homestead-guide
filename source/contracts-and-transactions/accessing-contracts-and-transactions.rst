@@ -261,13 +261,8 @@ See for a list: :ref:`Blockchain explorers <blockchain_explorers>`.
 Hosted blockchain explorers
 --------------------------------------------------------------------------------
 
--  `EtherChain <https://www.etherchain.org/>`_
--  `EtherCamp <https://live.expanse.camp/>`_
--  `EtherScan <http://etherscan.io/>`_ (and for `Testnet <http://testnet.etherscan.io>`_)
+-  `Expanse Block Explorer <http://www.expanse.tech/explorer/>`_
+-  `Expanse Live IDE <https://live.expanse.camp/>`_
 
-Other Resources
---------------------------------------------------------------------------------
 
-* `EtherNodes <http://ethernodes.org/>`_ - Geographic distribution of nodes and split by client
-* `EtherListen <http://www.etherlisten.com>`_ - Realtime Expanse transaction visualizer and audializer
 
